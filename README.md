@@ -1,6 +1,3 @@
 # LiCS
-$ git clone https://github.com/journey-ad/Moe-counter.git
-$ cd Moe-counter
-$ yarn install
 
-$ yarn start
+# Hello! You are the [![](https://count.getloli.com/get/@:LiCSheng?theme=rule34)](https://count.getloli.com/)-*th* visitor!
